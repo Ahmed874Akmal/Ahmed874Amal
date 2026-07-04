@@ -164,7 +164,7 @@ Cloud Service Management
 - GitHub
 - Visual Studio
 - VS Code
-- Postman
+
 
 ---
 
@@ -217,7 +217,7 @@ A collection of hands-on AWS Cloud projects covering cloud infrastructure, deplo
 
 **🔗 Repository**
 
-👉 https://github.com/Ahmed874Akmal/AWS-Projects
+👉 https://github.com/Ahmed874Akmal/AWS
 
 ---
 
@@ -232,27 +232,6 @@ A collection of Full Stack .NET applications built using ASP.NET Core, C#, SQL S
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed874Akmal&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed874Akmal&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ahmed874Akmal&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🎯 Looking For
 

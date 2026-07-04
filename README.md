@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ahmed Akmal
 
-### 💻 Aspiring Full Stack .NET Developer | ☁️ Cloud Engineering Enthusiast | 🏗️ Software Engineering Enthusiast
+### 💻 Full Stack .NET Developer | ☁️ Cloud Engineering  | 🏗️ Software Engineering 
 
 ### 🤖 AI • Machine Learning • Deep Learning • Data Science Enthusiast
 

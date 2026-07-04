@@ -2,21 +2,24 @@
 
 # Hi 👋, I'm Ahmed Akmal
 
-### 🚀 Aspiring Full Stack .NET Developer | ☁️ Cloud Engineering Enthusiast | 🤖 AI & Data Enthusiast
+### 💻 Aspiring Full Stack .NET Developer | ☁️ Cloud Engineering Enthusiast | 🏗️ Software Engineering Enthusiast
 
-🎓 Fourth-Year Internet of Things (IoT) Student at Menoufia National University
+### 🤖 AI • Machine Learning • Deep Learning • Data Science Enthusiast
 
-<p>
+🎓 Fourth-Year Internet of Things (IoT) Student at Menoufia National University, Egypt 🇪🇬
+
+<p align="center">
+
 <a href="https://github.com/Ahmed874Akmal">
-<img src="https://img.shields.io/github/followers/Ahmed874Akmal?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Ahmed874Akmal?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ahmad-akmal-031862342">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmedsharafeldin194@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -25,91 +28,211 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-- 🎓 Fourth-Year **IoT Student** at **Menoufia National University**
-- 💻 Interested in **Full Stack .NET Development**
-- ☁️ Learning **Cloud Engineering**
-- 🏗 Passionate about **Software Engineering**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Deep Learning**
-- 📊 Passionate about **Data Science, Data Analytics & Big Data**
-- 🌱 Currently enrolled in **ITI .NET Builders Program**
-- 📚 NTI Trainee in **Cloud Service Management**
+I'm **Ahmed Akmal**, a fourth-year **Internet of Things (IoT)** student at **Menoufia National University**.
 
----
+I'm passionate about building scalable software solutions and continuously improving my skills in Software Engineering, Cloud Computing, Artificial Intelligence, and Data Science.
 
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-
-### Web
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-
-### Frameworks & Tools
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
-
-### Databases
-
-- SQL Server
-- MySQL
-- MongoDB
-- NoSQL
+My current career goal is to become a professional **Full Stack .NET Developer** while expanding my expertise in **Cloud Engineering** and **Software Engineering**.
 
 ---
 
 # 🎯 Career Focus
 
-- 💻 Full Stack .NET Development
-- ☁️ Cloud Engineering
-- 🏗 Software Engineering
+✔ Full Stack .NET Development
+
+✔ Software Engineering
+
+✔ Cloud Engineering
+
+Alongside my main tracks, I continuously learn and build projects in:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Data Analytics
+- Big Data
+- Data Mining
+- SQL & NoSQL Databases
+- Cloud Computing
+- Internet of Things (IoT)
 
 ---
 
-# 🏆 Training
+# 🎓 Education
 
-### 💙 ITI
+🏛 **Menoufia National University**
 
-- .NET Builders Program
+Bachelor's Degree in **Internet of Things (IoT)**
 
-### 💜 NTI
+📅 Fourth Year
 
+---
+
+# 🏆 Training & Programs
+
+## 💙 Information Technology Institute (ITI)
+
+**.NET Builders Program**
+
+Technologies covered:
+
+- C#
+- Java
+- SQL Server
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- ASP.NET Core
+
+Currently Learning:
+
+- Entity Framework Core
+- REST APIs
+- ASP.NET Core MVC
+- Clean Architecture
+
+---
+
+## 💜 National Telecommunication Institute (NTI)
+
+Cloud Service Management
+
+---
+
+# 💻 Technical Skills
+
+## Programming Languages
+
+- Python (Advanced)
+- C#
+- Java
+- SQL
+
+---
+
+## Full Stack Development
+
+- ASP.NET Core
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+---
+
+## Artificial Intelligence
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+
+---
+
+## Data
+
+- Data Science
+- Data Analytics
+- Big Data
+- Data Mining
+
+---
+
+## Databases
+
+- SQL Server
+- MySQL
+- MongoDB
+- NoSQL Databases
+
+---
+
+## Cloud
+
+- Cloud Computing
 - Cloud Service Management
+- AWS (Learning)
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- Postman
+
+---
+
+# 📚 Relevant Coursework
+
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- Database Systems
+- SQL
+- NoSQL Databases
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Information Retrieval
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Data Analytics
+- Big Data
+- Data Mining
+- Cloud Computing
+- Web Development
+- Mobile Programming
+- Internet of Things (IoT)
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- Design Patterns
+- Clean Architecture
+- AWS Cloud Services
+- Microservices
+- Machine Learning
+- Deep Learning
 
 ---
 
 # 🚀 Featured Projects
 
-## ☁️ AWS Cloud Project
+## ☁️ AWS Cloud Projects
 
-🔗 **Repository**
+A collection of hands-on AWS Cloud projects covering cloud infrastructure, deployment, networking, storage, and cloud services.
 
-PASTE_YOUR_AWS_REPOSITORY_LINK_HERE
+**🔗 Repository**
 
----
-
-## 💻 Full Stack .NET Project
-
-🔗 **Repository**
-
-PASTE_YOUR_DOTNET_REPOSITORY_LINK_HERE
+👉 https://github.com/Ahmed874Akmal/AWS-Projects
 
 ---
 
-# 📈 GitHub Stats
+## 💻 Full Stack .NET Projects
+
+A collection of Full Stack .NET applications built using ASP.NET Core, C#, SQL Server, Entity Framework Core, REST APIs, HTML, CSS, Bootstrap, and JavaScript.
+
+**🔗 Repository**
+
+👉 https://github.com/Ahmed874Akmal/FullStack-DotNet-Projects
+
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -121,26 +244,52 @@ PASTE_YOUR_DOTNET_REPOSITORY_LINK_HERE
 
 ---
 
-# 🤝 Connect with Me
+# 🔥 GitHub Streak
 
-📧 **Email**
+<p align="center">
 
-ahmedsharafeldin194@gmail.com
+<img src="https://streak-stats.demolab.com?user=Ahmed874Akmal&theme=tokyonight"/>
 
-🔗 **LinkedIn**
+</p>
 
-https://www.linkedin.com/in/ahmad-akmal-031862342
+---
 
-💻 **GitHub**
+# 🎯 Looking For
 
-https://github.com/Ahmed874Akmal
+- 💼 Full Stack .NET Internship
+- ☁️ Cloud Engineering Internship
+- 🏗 Software Engineering Internship
+- 👨‍💻 Junior .NET Developer Opportunities
+
+---
+
+# 🌍 Languages
+
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Professional Working Proficiency
+
+---
+
+# 🤝 Connect With Me
+
+### 📧 Email
+
+**ahmedsharafeldin194@gmail.com**
+
+### 💼 LinkedIn
+
+**https://www.linkedin.com/in/ahmad-akmal-031862342**
+
+### 💻 GitHub
+
+**https://github.com/Ahmed874Akmal**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 "Learning never stops. Every project is a new opportunity to grow."
 
-*"Always learning, always building."*
+⭐ Thanks for visiting my profile!
 
 </div>
